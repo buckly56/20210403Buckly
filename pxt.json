@@ -1,0 +1,22 @@
+{
+    "name": "投篮器",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "startbit": "github:lobot-robot/startbit#b9cabcf7b1a2b44e66cf6934b37f3bf6bd001297",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
